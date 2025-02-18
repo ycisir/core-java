@@ -29,9 +29,5 @@ public class DataTypesDemo {
 
         boolean tr = true;
         System.out.println(tr);
-
-
-//        changes
-
     }
 }
