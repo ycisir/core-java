@@ -1,7 +1,5 @@
 package VII_object_oriented_programming;
 
-import java.io.PrintStream;
-
 public class StaticKeywordMain {
     public static void main(String[] args) {
         System.out.println(StaticKeyword.a);
@@ -18,7 +16,7 @@ public class StaticKeywordMain {
 
 
 
-//Below are exaples
+//Below are examples
 
 //class Test {
 //    static String s = "test";

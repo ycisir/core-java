@@ -17,6 +17,6 @@ class Dog extends Animal {
     void eat() {
         super.eat();
 //        System.out.println("Eating bread...");
-        System.out.println("something....");
     }
+    
 }
