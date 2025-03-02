@@ -31,6 +31,11 @@ public class InterfaceDemo implements Shape {
 		Shape.rectangle(); // indirectly get it in class
 		System.out.println(length);
 		System.out.println(width);
+		
+		Shape shobj=new InterfaceDemo(); // we can create ref variable for interface using class instantiate
+		shobj.circle();
+		shobj.square();
+		Shape.rectangle();
 	}
 
 }
